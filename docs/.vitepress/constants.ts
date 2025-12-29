@@ -23,7 +23,7 @@ import { transform, transformGuide } from './transformer'
 export const meta = {
   name: 'freemediaheckyeah',
   description: 'The largest collection of free stuff on the internet!',
-  hostname: 'https://fmhy.net',
+  hostname: 'https://fmhy.samidy.com',
   keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
   build: {
     api: true,
@@ -179,8 +179,8 @@ export const nav: DefaultTheme.NavItem[] = [
         link: 'https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/'
       },
       {
-        text: '😇 SFW FMHY',
-        link: 'https://rentry.org/piracy'
+        text: '❗ Official FMHY',
+        link: 'https://fmhy.net/'
       },
       {
         text: '🏠 Selfhosting',
